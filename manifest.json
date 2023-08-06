@@ -1,0 +1,17 @@
+{
+    "name": "Email Scraper",
+    "description": "Scrape emails from the current web page",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "permissions": ["activeTab","scripting"],
+    "action": {
+        "default_popup": "index.html"
+    },
+    "author": "Sukruth M Bharadwaj",
+    "icons": {
+        "16": "icon16.png",
+        "32": "icon16.png",
+        "48": "icon16.png",
+        "128": "icon16.png"
+      }
+}
